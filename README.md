@@ -27,6 +27,11 @@ $ yarn
 # ou
 $ npm install
 
+# Executando servidor
+$ yarn server
+# ou
+$ npm run server
+
 # Execute o projeto no Android
 $ yarn android
 # ou
