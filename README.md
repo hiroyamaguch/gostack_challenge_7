@@ -5,7 +5,7 @@ Diretório do projeto original nest [link](https://github.com/rocketseat-educati
 Este é o front-end mobile desenvolvido para o desafio Fundamentos do React Native do curso GoStack da Rocketseat.
 
 ## Layout mobile
-![Mobile 1](https://github.com/hiroyamaguch/assets/blob/e8767ec8606efa86a5f197efc930c375ad1ca209/challenge7/mobile1.png) ![Mobile 1](https://github.com/hiroyamaguch/assets/blob/e8767ec8606efa86a5f197efc930c375ad1ca209/challenge7/mobile2.png)
+![Mobile 1](https://github.com/hiroyamaguch/assets/blob/ff7dfb694e14b6304256cc2fd77d4f499452426d/challenge7/mobile1.jpg) ![Mobile 1](https://github.com/hiroyamaguch/assets/blob/ff7dfb694e14b6304256cc2fd77d4f499452426d/challenge7/mobile2.jpg)
 
 # Tecnologias utilizadas
 - HTML / CSS / JS / TypeScript
