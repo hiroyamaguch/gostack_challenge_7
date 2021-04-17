@@ -69,7 +69,7 @@ const Cart: React.FC = () => {
       <ProductContainer>
         <ProductList
           data={products}
-          keyExtractor={item => item.id}
+          keyExtractor={(item: Product) => item.id}
           ListFooterComponent={<View />}
           ListFooterComponentStyle={{
             height: 80,
