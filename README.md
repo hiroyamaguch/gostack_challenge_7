@@ -12,6 +12,11 @@
   <a href="https://github.com/rocketseat-education/bootcamp-gostack-desafios/tree/master/desafio-fundamentos-react-native">Projeto Original</a>
 </p>
 
+<p align="center">
+  <img alt="Mobile" src="https://github.com/hiroyamaguch/assets/blob/ff7dfb694e14b6304256cc2fd77d4f499452426d/challenge7/mobile1.jpg">
+  <img alt="Mobile2" src="https://github.com/hiroyamaguch/assets/blob/ff7dfb694e14b6304256cc2fd77d4f499452426d/challenge7/mobile2.jpg">
+</p>
+
 ## :memo: Sobre o projeto
 Este é o front-end mobile desenvolvido para o desafio Fundamentos do React Native do curso GoStack da Rocketseat.
 #### Tecnologias utilizadas
