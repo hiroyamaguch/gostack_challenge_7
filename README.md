@@ -1,22 +1,30 @@
-# GoStack - Desafio: Fundamentos React-Native
-Diretório do projeto original nest [link](https://github.com/rocketseat-education/bootcamp-gostack-desafios/tree/master/desafio-fundamentos-react-native).
+<p align="center">
+  <img alt="GoStack Logo" src="https://github.com/hiroyamaguch/assets/blob/de8f5bb7126d7a27664f154dfdaffa782d36b38d/gostack/gostack.png">
+</p>
 
-# Sobre o projeto
+<h3 align="center">
+  GoStack - Desafio: Fundamentos React-Native
+</h3>
+
+<p align="center">
+  <a href="#memo-sobre-o-projeto">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-como-executar-o-projeto">Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/rocketseat-education/bootcamp-gostack-desafios/tree/master/desafio-fundamentos-react-native">Projeto Original</a>
+</p>
+
+## :memo: Sobre o projeto
 Este é o front-end mobile desenvolvido para o desafio Fundamentos do React Native do curso GoStack da Rocketseat.
-
-## Layout mobile
-![Mobile 1](https://github.com/hiroyamaguch/assets/blob/ff7dfb694e14b6304256cc2fd77d4f499452426d/challenge7/mobile1.jpg) ![Mobile 1](https://github.com/hiroyamaguch/assets/blob/ff7dfb694e14b6304256cc2fd77d4f499452426d/challenge7/mobile2.jpg)
-
-# Tecnologias utilizadas
+#### Tecnologias utilizadas
 - HTML / CSS / JS / TypeScript
 - [React Native](https://reactnative.dev/)
 - [Axios](https://github.com/axios/axios)
 - [Eslint](https://eslint.org/)
 - [Styled Components](https://styled-components.com/)
 
-# Como executar o projeto
-Pré-requisitos: npm / yarn / emuladores ou dispositivos android e ios
+## :rocket: Como executar o projeto
+Pré-requisitos: npm / yarn + emulador / celular
 
+##### Executando o servidor
 ```bash
 # Clone este repositório
 git clone https://github.com/hiroyamaguch/gostack_challenge_7.git
@@ -29,18 +37,8 @@ $ yarn
 # ou
 $ npm install
 
-# Executando servidor
-$ yarn server
-# ou
-$ npm run server
-
-# Execute o projeto no Android
+# Instale o aplicativo (android ou ios)
 $ yarn android
-# ou
-$ npm run android
-
-# Execute o projeto no IOS
-$ yarn ios
 # ou
 $ npm run ios
 
@@ -49,8 +47,3 @@ $ yarn start
 # ou
 $ npm run start
 ```
-
-# Autor
-Pedro Antônio Hiroyuki Yamaguchi
-
-https://www.linkedin.com/in/hiroyamaguch/
